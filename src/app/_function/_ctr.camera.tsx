@@ -1,13 +1,11 @@
 'use client'
-import { Canvas, useFrame } from '@react-three/fiber'
-import { OrbitControls, useAnimations, useGLTF, Environment } from '@react-three/drei'
-import { EffectComposer, Bloom } from '@react-three/postprocessing'
-import { Suspense, useEffect, useRef, useState } from 'react'
+import { useFrame } from '@react-three/fiber'
+import { OrbitControls } from '@react-three/drei'
+import { useEffect, useRef } from 'react'
 import * as THREE from 'three'
 
 export function CameraController() {
     const controlsRef = useRef<any>(null)
-    const lastLogTime = useRef(0)
 
     // Define waypoints for camera animation
     const waypoints = [

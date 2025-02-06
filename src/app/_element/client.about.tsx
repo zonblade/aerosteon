@@ -1,7 +1,7 @@
 "use client"
 import { Canvas } from '@react-three/fiber'
 import { CopterModel } from '../_function/_mdl.copter'
-import { Environment, OrbitControls } from '@react-three/drei'
+import { OrbitControls } from '@react-three/drei'
 import "./glow-green.css"
 import { useState } from 'react'
 

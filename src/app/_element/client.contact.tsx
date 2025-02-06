@@ -16,7 +16,7 @@ export function CE_Contact() {
                         <p className="text-justify">
                             Our expert pilots are ready to guide you safely through hyperspace, 
                             unlocking new worlds and endless possibilities. 
-                            Don't miss your chance to explore the cosmos—contact us today and be part of the future of interstellar travel!
+                            Don&apos;t miss your chance to explore the cosmos—contact us today and be part of the future of interstellar travel!
                         </p>
                     </div>
                 </div>

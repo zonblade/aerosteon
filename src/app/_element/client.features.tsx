@@ -70,7 +70,7 @@ export function CE_Features() {
         }
     }, [sliderRef, cardData.length, x, cardWidth])
 
-    const handleDragEnd = (_: any, info: any) => {
+    const handleDragEnd = () => {
         const currentX = x.get()
         if (cardWidth === 0) return
 
@@ -104,8 +104,8 @@ export function CE_Features() {
                             drag="x"
                             dragConstraints={{ left: -Infinity, right: Infinity }}
                             onDragStart={() => controls.stop()}
-                            onDragEnd={(event, info) => {
-                                handleDragEnd(event, info)
+                            onDragEnd={() => {
+                                handleDragEnd()
                                 resumeAnimation()
                             }}
                             className="flex"

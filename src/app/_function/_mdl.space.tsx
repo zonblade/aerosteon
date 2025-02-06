@@ -36,8 +36,6 @@ export function SpacesModel() {
         }
         const circleTexture = new THREE.CanvasTexture(canvas)
 
-        const box = new THREE.Box3().setFromObject(scene)
-
         const starTypes = [
             { color: 0x99FFFF, intensity: 1.2+3.0 },
             { color: 0x99FFFF, intensity: 1.2+3.0 },

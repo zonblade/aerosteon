@@ -1014,7 +1014,7 @@
   "buffers": [
     {
       "byteLength": 6444640,
-      "uri": "http://localhost:3000/assets/station/scene.bin"
+      "uri": "https://space.retas.org/assets/station/scene.bin"
     }
   ],
   "extensionsUsed": [
@@ -1024,43 +1024,43 @@
   ],
   "images": [
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_main2_baseColor.jpeg"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_main2_baseColor.jpeg"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_main2_metallicRoughness.png"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_main2_metallicRoughness.png"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_main2_emissive.jpeg"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_main2_emissive.jpeg"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_main2_normal.png"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_main2_normal.png"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_smalllights_baseColor.jpeg"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_smalllights_baseColor.jpeg"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_smalllights_metallicRoughness.png"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_smalllights_metallicRoughness.png"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_smalllights_emissive.jpeg"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_smalllights_emissive.jpeg"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_smalllights_normal.png"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_smalllights_normal.png"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_main_baseColor.jpeg"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_main_baseColor.jpeg"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_main_metallicRoughness.png"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_main_metallicRoughness.png"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_main_emissive.jpeg"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_main_emissive.jpeg"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_main_normal.png"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_main_normal.png"
     },
     {
-      "uri": "http://localhost:3000/assets/station/textures/spacestation_main_clearcoat_normal.png"
+      "uri": "https://space.retas.org/assets/station/textures/spacestation_main_clearcoat_normal.png"
     }
   ],
   "materials": [

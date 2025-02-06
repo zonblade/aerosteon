@@ -65,7 +65,7 @@
   "buffers": [
     {
       "byteLength": 1400000,
-      "uri": "http://localhost:3000/assets/spaces/scene.bin"
+      "uri": "https://space.retas.org/assets/spaces/scene.bin"
     }
   ],
   "extensionsUsed": [

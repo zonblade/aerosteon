@@ -3895,7 +3895,7 @@
   "buffers": [
     {
       "byteLength": 4090992,
-      "uri": "http://localhost:3000/assets/copter/scene.bin"
+      "uri": "https://space.retas.org/assets/copter/scene.bin"
     }
   ],
   "extensionsUsed": [
@@ -3904,13 +3904,13 @@
   ],
   "images": [
     {
-      "uri": "http://localhost:3000/assets/copter/textures/MESH_MAT_baseColor.jpeg"
+      "uri": "https://space.retas.org/assets/copter/textures/MESH_MAT_baseColor.jpeg"
     },
     {
-      "uri": "http://localhost:3000/assets/copter/textures/ENGINE_baseColor.jpeg"
+      "uri": "https://space.retas.org/assets/copter/textures/ENGINE_baseColor.jpeg"
     },
     {
-      "uri": "http://localhost:3000/assets/copter/textures/leather_baseColor.jpeg"
+      "uri": "https://space.retas.org/assets/copter/textures/leather_baseColor.jpeg"
     }
   ],
   "materials": [

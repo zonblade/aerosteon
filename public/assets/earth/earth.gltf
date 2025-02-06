@@ -945,21 +945,21 @@
   "buffers": [
     {
       "byteLength": 32595696,
-      "uri": "http://localhost:3000/assets/earth/scene.bin"
+      "uri": "https://space.retas.org/assets/earth/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "http://localhost:3000/assets/earth/textures/TERRE_baseColor.jpeg"
+      "uri": "https://space.retas.org/assets/earth/textures/TERRE_baseColor.jpeg"
     },
     {
-      "uri": "http://localhost:3000/assets/earth/textures/TERRE_metallicRoughness.png"
+      "uri": "https://space.retas.org/assets/earth/textures/TERRE_metallicRoughness.png"
     },
     {
-      "uri": "http://localhost:3000/assets/earth/textures/TERRE_emissive.jpeg"
+      "uri": "https://space.retas.org/assets/earth/textures/TERRE_emissive.jpeg"
     },
     {
-      "uri": "http://localhost:3000/assets/earth/textures/NUAGES_baseColor.png"
+      "uri": "https://space.retas.org/assets/earth/textures/NUAGES_baseColor.png"
     }
   ],
   "materials": [

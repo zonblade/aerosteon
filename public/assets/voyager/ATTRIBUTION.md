@@ -1,0 +1,1 @@
+https://sketchfab.com/3d-models/voyager-space-satellite-draft-3ae2bb2b18784eb7987ad3d46b160f02

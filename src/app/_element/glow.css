@@ -1,0 +1,45 @@
+.glow {
+    position: relative;
+    overflow: hidden;
+    transition: box-shadow 0.5s;
+}
+
+.glow::before,
+.glow::after {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+    transition: opacity 0.5s; /* Removed transitions for top and left */
+}
+
+/* Glow effect that follows the cursor */
+.glow::before {
+    top: var(--y);
+    left: var(--x);
+    width: 200px;
+    height: 200px;
+    background: rgba(0, 255, 255, 0.2);
+    filter: blur(30px);
+    transform: translate(-50%, -50%);
+    opacity: 0;
+}
+
+.glow:hover::before {
+    opacity: 1;
+}
+
+/* Additional shadow glow following the cursor */
+.glow::after {
+    top: var(--y);
+    left: var(--x);
+    width: 100px;
+    height: 100px;
+    background: rgba(0, 255, 255, 0.2);
+    filter: blur(15px);
+    transform: translate(-50%, -50%);
+    opacity: 0;
+}
+
+.glow:hover::after {
+    opacity: 1;
+}

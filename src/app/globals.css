@@ -5,17 +5,30 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --font-fanta: 'Fanta-Regular', sans-serif; /* Set Fanta-Regular as default */
+  --font-airbeat: 'Airbeat-EaW0j', sans-serif; 
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --font-fanta: 'Fanta-Regular', sans-serif; /* Set Fanta-Regular as default */
+    --font-airbeat: 'Airbeat-EaW0j', sans-serif; 
   }
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-fanta); /* Default global font now uses Fanta-Regular */
+}
+
+/* Utility class for Airbeat font */
+.font-use-airbeat {
+  font-family: var(--font-airbeat);
 }

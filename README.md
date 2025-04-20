@@ -1,4 +1,4 @@
-<img style="height:100%; width: 100%;" src="https://raw.githubusercontent.com/zonblade/zonblade/refs/heads/main/img/header.gif" align="center"/>
+<img style="height:100%; width: 100%;" src="https://raw.githubusercontent.com/aula-id/.github/refs/heads/main/profile/assets/atomic.gif" align="center"/><img style="height:100%; width: 100%;" src="https://raw.githubusercontent.com/zonblade/zonblade/refs/heads/main/img/header.gif" align="center"/>
 
 <a href="#">
     <img src="https://static.wikia.nocookie.net/fategrandorder/images/9/95/S010_Sprite_Ver2_Stage1_NP1.png/revision/latest/scale-to-width-down/1000?cb=20250109152453" align="right" width="256" title="OPSWAT" alt="OPSWAT"/>
